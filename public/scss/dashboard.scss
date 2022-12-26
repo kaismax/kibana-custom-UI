@@ -1,0 +1,16 @@
+
+ .ckl-app-dashboards {
+
+    .dashboardViewport {
+        /*
+        * Change panel background color
+        */
+        .euiPanel.euiPanel--plain {
+            background: #eff3fb;
+        }
+
+        .embPanel__titleText {
+            font-size: 16px;
+        }
+    }
+ }
