@@ -26,11 +26,11 @@
                     content: '';
                     display: flex;
                     background-position: center;
-                    background-image: url('../assets/kosmos-logo-no-text.png');
+                    background-image: url('../assets/login.png');
                     background-repeat: no-repeat;
                     background-size: contain;
-                    width: 48px;
-                    height: 48px;
+                    width: 934px;
+                    height: 267px;
                 }
             }
         
@@ -39,7 +39,7 @@
         
                 &:after {
                     @include showNewContent;
-                    content: 'Welcome to KOSMOS SIEM, customized by KAIS TOUIDJINE';
+                    content: 'Welcome';
                 }
             }
         
@@ -55,7 +55,7 @@
                 &:after {
                     @include showNewContent;
                     color: darkblue !important; 
-                    content: "You have logged out of KOSMOS SIEM."
+                    content: "You have logged out"
         
                 }
             }

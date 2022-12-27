@@ -1,9 +1,9 @@
 {
   "id": "customKibanaTheme",
   "version": "1.0.0",
-  "kibanaVersion": "kibana",
+  "kibanaVersion": "8.5.3",
   "owner": {
-    "name": "lizozom",
+    "name": "kosmos",
     "githubTeam": ""
   },
   "description": "Customize Kibana Theme",

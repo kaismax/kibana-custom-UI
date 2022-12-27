@@ -1,1 +1,1 @@
-export const CUSTOM_NAME = 'KOSMOS SIEM';
+export const CUSTOM_NAME = 'KOSMOS Security';
