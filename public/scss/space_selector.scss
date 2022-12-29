@@ -1,7 +1,7 @@
 .ckl-app-space_selector {
 
-    // Modify the space seletor logo
-    .spcSpaceSelector__logo {
+    .spcSpaceSelector__logo,
+    .kbnSolutionAvatar {
         svg {
             display: none !important;
         }
@@ -21,6 +21,10 @@
     // Remove background design 
     .spcSpaceSelector {
         &:before {
+            content: '';
+        }
+
+        &:after {
             content: '';
         }
     }
