@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "kibanaVersion": "8.5.3",
   "owner": {
-    "name": "kosmos",
+    "name": "kaismax",
     "githubTeam": ""
   },
   "description": "Customize Kibana Theme",
