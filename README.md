@@ -9,4 +9,5 @@ A Kibana plugin to customise the Kibana UI, including:
 
 Tested on Kibana 8.5.3
 
-from https://github.com/lizozom/custom-kibana-theme
+Big thanks to https://github.com/lizozom
+forked from https://github.com/lizozom/custom-kibana-theme
